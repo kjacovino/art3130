@@ -52,6 +52,7 @@ background: linear-gradient(135deg, #ef32d9 0%,#89fffd 86%); /* W3C, IE10+, FF16
 h1 {
     font-size: 3rem;
     font-family: helvetica;
+    color: red;
 }
 
 h2 {
