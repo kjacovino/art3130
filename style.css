@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgba(255,255,255,1);
+}
+
+div {
+    border-width: 5px;
+    border-style: groove;
+    border-color: blue;
+    border-top: 5px solid red;
+}
+
+.class-name {
+    border-color: green;
+}
+
+#id-name {
+    background: yellow;
+}
+
+#another-id {
+    background: blue;
+}
